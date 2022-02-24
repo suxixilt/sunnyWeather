@@ -5,7 +5,6 @@
    >
 
     <fragment
-
         android:id="@+id/placeFragment"
         android:name="com.example.sunnyweather.ui.place.PlaceFragment"
         android:layout_width="match_parent"
